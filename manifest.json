@@ -1,0 +1,1 @@
+{"app":{"name":"","description":"","tags":"","id":"7ee06b41.6fe054"},"packages":[{"type":"tab","id":"1f9a05e0.1ae7ea","name":"new package","risks":"","benefits":"","purpose":"","install":"optional","datastores":[{"id":"9128d013.fb4b7","name":"osmonitor","type":"loadavg1"}]}],"allowed-combinations":[]}
