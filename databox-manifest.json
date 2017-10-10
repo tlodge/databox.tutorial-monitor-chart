@@ -1,1 +1,43 @@
-{"app":{"name":"newtest2","description":"new test ageian","tags":"adslhs","id":"74713770.f994b8"},"packages":[{"type":"tab","id":"1f9a05e0.1ae7ea","name":"new package","risks":"","benefits":"sadas","purpose":"asd","install":"optional","datastores":[{"id":"9128d013.fb4b7","name":"ff","type":"loadavg1"}]}],"allowed-combinations":[]}
+{
+    "manifest-version": 1,
+    "name": "tlodge-newtest2",
+    "version": "0.1.0",
+    "description": "new test ageian",
+    "author": "tlodge",
+    "licence": "MIT",
+    "databox-type": "app",
+    "tags": [
+        "adslhs"
+    ],
+    "homepage": "https://github.com/tlodge/tlodge-newtest2",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tlodge/tlodge-newtest2.git"
+    },
+    "packages": [
+        {
+            "id": "1f9a05e0.1ae7ea",
+            "name": "new package",
+            "purpose": "asd",
+            "required": false,
+            "datastores": [
+                "9128d013.fb4b7"
+            ],
+            "benefits": "sadas"
+        }
+    ],
+    "allowed-combinations": [],
+    "datasources": [
+        {
+            "type": "loadavg1",
+            "required": true,
+            "name": "ff",
+            "clientid": "9128d013.fb4b7",
+            "granularities": []
+        }
+    ],
+    "network-permissions": [],
+    "resource-requirements": {},
+    "volumes": [],
+    "export-whitelist": []
+}
