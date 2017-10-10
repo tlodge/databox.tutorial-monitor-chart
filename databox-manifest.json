@@ -1,6 +1,6 @@
 {
     "manifest-version": 1,
-    "name": "tlodge-newtest2",
+    "name": "tlodge-monitor",
     "version": "0.1.0",
     "description": "new test ageian",
     "author": "tlodge",
@@ -9,10 +9,10 @@
     "tags": [
         "adslhs"
     ],
-    "homepage": "https://github.com/tlodge/tlodge-newtest2",
+    "homepage": "https://github.com/tlodge/databox.tutorial-monitor-chart",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/tlodge/tlodge-newtest2.git"
+        "url": "git+https://github.com/tlodge/databox.tutorial-monitor-chart.git"
     },
     "packages": [
         {
